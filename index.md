@@ -59,17 +59,4 @@ My focus areas include:
 - Showcases **scalable machine learning workflows**  
 👉 [View Project](https://github.com/Chidinmaidonor/housing-price-ci-cd-pipeline)
 
----
 
-## 🔹 How to Explore
-- Each project folder contains:
-  - 📄 **README.md** → Detailed explanation of architecture, methods, and results  
-  - 🖼️ **Images** → System diagrams, model architectures, UI screenshots  
-  - 🎥 **Demo links** → Video demos or deployed app links  
-
----
-
-## 🔹 Next Steps
-📂 Browse through my projects, or jump back to my **[Main Portfolio](../index.md)** for Automation, PLC, and Cloud projects.  
-
----
