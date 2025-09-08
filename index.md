@@ -1,7 +1,5 @@
 # 🤖 Artificial Intelligence & Deep Learning Portfolio
-
-Welcome to my **AI & Deep Learning portfolio**.  
-Here, I showcase projects where I applied **data science, neural networks, deep learning, and MLOps practices** to solve real-world problems.  
+  
 
 My focus areas include:  
 - 🧠 **Deep Learning** → Regression, Classification, Clustering  
