@@ -2,20 +2,6 @@
 
 #### Technical Skills: Embedded Systems and Automation
 
-## Education							       		
-- M.S., Electrical/Electronic Engineering	| The University of Tulsa, Oklahoma (_December 2026_)	 			        		
-- B.S., ELectrical/Electronic Engineering | The University of Benin, Nigeria (_May 2016_)
-
-## Work Experience
-
-Electrical & Computer Engineering professional with a solid foundation in circuit analysis, embedded C programming, and hardware testing. Through graduate-level coursework and hands-on lab experience in the United States, I have developed strong skills in microcontroller programming, digital logic, debugging, and system-level problem solving.
-
-I’ve worked on projects involving sensor interfacing, embedded firmware, and real-time data acquisition—using tools such as oscilloscopes, multimeters, logic analyzers, and simulation environments like MATLAB and LTspice. I also write Python scripts to support testing, automation, and analysis.
-
-At the University of Tulsa, I assist students with circuit design concepts, embedded programming, and troubleshooting microcontroller interfaces, further strengthening my communication and mentoring abilities. My interests include embedded systems, communication electronics, and high-reliability electrical design.
-
-Motivated, adaptable, and committed to continuous growth, I’m building a strong foundation in embedded C, microcontroller systems, and electrical engineering principles to contribute to reliable, well-engineered solutions.
-
 ## Projects
 ### **🛣️ A Basic PLC Traffic Controller Using TIA Portal** 
 [GitHub Repo »](/https://github.com/Chidinmaidonor/PLC-Project-Traffic-Light-Control-System-without-HMI-in-Siemens-TIA-Portal.git)
