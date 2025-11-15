@@ -1,23 +1,20 @@
 # Systems Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB, PLC/Automation, Arduino
+#### Technical Skills: Embedded Systems and Automation
 
 ## Education							       		
 - M.S., Electrical/Electronic Engineering	| The University of Tulsa, Oklahoma (_December 2026_)	 			        		
 - B.S., ELectrical/Electronic Engineering | The University of Benin, Nigeria (_May 2016_)
 
 ## Work Experience
-**Graduate Teaching Assistant @ The University of Tulsa (_January 2025 - Present_)**
--  Conducted hands-on laboratory sessions for 50+ students, focusing on embedded systems and IoT integration using Arduino and Raspberry Pi, reinforcing practical understanding through guided prototyping.
-- Redesigned an Arduino-based prototyping model, achieving a 50% improvement in project performance and establishing a scalable foundation for future laboratory initiatives.
 
-**Senior systems engineer @ Aitech Engineering Solutions LLC (_January 2022 - November 2024_)**
-- Executed end-to-end development of embedded AI systems—leveraging Arduino for prototyping, STM32CubeIDE for firmware engineering, and TensorFlow Lite for on-device inference—resulting in a 20% reduction in deployment timelines.
-- Spearheaded the integration of sensors, actuators, and MQTT-based communication protocols to enable seamless real-time industrial connectivity, while deploying unsupervised deep learning models to the AWS cloud for intelligent system monitoring and analytics.
+Electrical & Computer Engineering professional with a solid foundation in circuit analysis, embedded C programming, and hardware testing. Through graduate-level coursework and hands-on lab experience in the United States, I have developed strong skills in microcontroller programming, digital logic, debugging, and system-level problem solving.
 
-**Field Systems Engineer @ Rev technologies Ltd (_January 2020 - November 2021_)**
-- Contracted by manufacturers—including A & M Marble and Tile Ltd.—to design PLC-based control systems in Siemens TIA Portal and integrate TensorFlow Lite models for real-time sensor inference, automating workflows that lifted equipment performance by 25 % and cut downtime by 30 %.
-- Engineered and deployed embedded-AI predictive-maintenance modules—retrofitting legacy assets and integrating ML algorithms into SCADA data streams—to cut unplanned downtime by 25 %, accelerate anomaly detection by 40 %, and extend equipment life cycles, reducing capital expenditure by 15 %.
+I’ve worked on projects involving sensor interfacing, embedded firmware, and real-time data acquisition—using tools such as oscilloscopes, multimeters, logic analyzers, and simulation environments like MATLAB and LTspice. I also write Python scripts to support testing, automation, and analysis.
+
+At the University of Tulsa, I assist students with circuit design concepts, embedded programming, and troubleshooting microcontroller interfaces, further strengthening my communication and mentoring abilities. My interests include embedded systems, communication electronics, and high-reliability electrical design.
+
+Motivated, adaptable, and committed to continuous growth, I’m building a strong foundation in embedded C, microcontroller systems, and electrical engineering principles to contribute to reliable, well-engineered solutions.
 
 ## Projects
 ### **🛣️ A Basic PLC Traffic Controller Using TIA Portal** 
